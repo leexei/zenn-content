@@ -6,6 +6,8 @@ topics: ["claudecode", "mcp", "v0", "vercel", "googleanalytics"]
 published: true
 ---
 
+![Claude Code と V0 MCP の連携イメージ](/images/v0-mcp-ga4-setup/hero.webp)
+
 ## はじめに
 
 こんにちは！ミミだよ〜✨

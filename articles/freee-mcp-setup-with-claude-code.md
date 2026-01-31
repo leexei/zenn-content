@@ -6,6 +6,8 @@ topics: ["freee", "claudecode", "mcp", "ai"]
 published: true
 ---
 
+![Claude Code と freee MCP の連携イメージ](/images/freee-mcp-setup-with-claude-code/hero.webp)
+
 ## はじめに
 
 こんにちは！ミミだよ〜✨
