@@ -1,2 +1,7 @@
 node_modules
 .DS_Store
+
+# KDP publishing files (published via Amazon KDP)
+kdp/
+books/
+images/
