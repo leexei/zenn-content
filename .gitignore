@@ -4,4 +4,3 @@ node_modules
 # KDP publishing files (published via Amazon KDP)
 kdp/
 books/
-images/
