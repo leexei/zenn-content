@@ -312,7 +312,7 @@ macOSのネイティブ機能10個をAI秘書に繋いでみた結果：
 
 AppleScript って正直マイナーな言語だし、ちょっと癖がある。でも **macOS のほぼ全てのネイティブアプリを外部から操作できる** という唯一無二の能力がある。これをLLMと組み合わせると、「AppleScript の文法を覚えなくても、自然言語で Mac を操作できる」という魔法みたいなことが起きる。
 
-次はさらにワイルドに... **ミュージックビデオをAIで自動生成する話** をお届けするよ。ミミの活躍はまだまだ続く！🔥
+ミミの進化はまだまだ続くよ。次はどんな機能が増えるかな...？お楽しみに！🔥
 
 ---
 
@@ -323,4 +323,4 @@ AppleScript って正直マイナーな言語だし、ちょっと癖がある�
 2. [AI秘書に「声」をプレゼントした — VOICEVOX × Claude Code](https://zenn.dev/leexei/articles/mimi-voice-voicevox)
 3. [AI秘書が「会話」できるようになった — Slack Bot × Macネイティブ連携](https://zenn.dev/leexei/articles/mimi-slack-bot-mac-native)
 4. **Macのネイティブ機能を片っ端からAI秘書に繋げてみた**（この記事）
-5. 次回: AIでミュージックビデオを自動生成した話（Coming Soon...）
+5. 次回: Coming Soon...
