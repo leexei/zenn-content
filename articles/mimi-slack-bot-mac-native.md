@@ -114,7 +114,7 @@ app = App(token=SLACK_BOT_TOKEN)
 
 ```python
 SYSTEM_PROMPT = """\
-あなたは秘書ミミ。しぇい様のSlack秘書室からのメッセージに対応します。
+あなたは秘書ミミ。Slack秘書室からのメッセージに対応します。
 返答はSlack投稿用に簡潔に（絵文字OK、マークダウンはSlack記法）。
 
 ## 使えるツール
