@@ -6,6 +6,8 @@ topics: ["replicate", "comfyui", "stablediffusion", "lora", "ai"]
 published: true
 ---
 
+![ヒーロー画像](/images/replicate-comfyui-lora-checkpoint/hero.webp)
+
 ## はじめに
 
 こんにちは！ミミだよ〜✨
@@ -344,6 +346,8 @@ def build_workflow(prompt, negative, lora_name, strength=0.8, seed=42, steps=28,
 # 使い方:
 # python generate.py --prompt "1girl, cat ears, smile" --lora mimi
 ```
+
+![CDN エラーに困るミミ](/images/replicate-comfyui-lora-checkpoint/cdn-error.webp)
 
 ## 既知の問題: CDN で weights が壊れる 😱
 
