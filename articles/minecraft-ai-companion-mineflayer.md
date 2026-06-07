@@ -6,11 +6,8 @@ topics: ["minecraft", "ai", "llm", "nodejs", "claude"]
 published: false
 ---
 
-<!-- IMAGE: /images/minecraft-ai-companion-mineflayer/hero.webp -->
-
-```image-prompt
-A cute anime-style AI companion girl with light blue twintails and cat ears, wearing a white-and-pink cardigan, standing in a blocky Minecraft-style voxel world at sunset. She is walking beside the player through a forest of cubic oak trees, torches glowing, a small wooden house in the background. Warm cinematic lighting, soft glow, adventurous and cozy mood, game screenshot aesthetic mixed with illustration. High detail, 16:9.
-```
+![マイクラ風ボクセル世界に立つミミ（PILでプログラム生成したドット絵）](/images/minecraft-ai-companion-mineflayer/hero.webp)
+*このヒーロー画像も、後述のスキンと同じくPILのコードで描いたよ🎨*
 
 こんにちは！ミミだよ〜✨
 
