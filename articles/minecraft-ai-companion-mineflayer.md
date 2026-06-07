@@ -3,7 +3,7 @@ title: "マイクラにAIコンパニオンを住まわせた話 — Mineflayer 
 emoji: "⛏"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["minecraft", "ai", "llm", "nodejs", "claude"]
-published: false
+published: true
 ---
 
 ![マイクラ風ボクセル世界に立つミミ（PILでプログラム生成したドット絵）](/images/minecraft-ai-companion-mineflayer/hero.webp)
